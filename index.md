@@ -2,4 +2,21 @@
 ## Header 2
 ### Header 3
 
+#### Coding Image.
+
 ![Image of a computer with a bunch of code displayed](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+### Some C code example of if, if else and else.
+
+``` C
+int age = 6;
+if (age < 13){
+  printf("You are a child!\n");
+}
+else if (age < 18 ) {
+  printf("You are a teenager!\n");
+}
+else {
+  printf("You are an adult!\n");
+}
+```
