@@ -20,3 +20,11 @@ else {
   printf("You are an adult!\n");
 }
 ```
+### Lists
+
+- [x] Create a header.
+- [x] Create image and add screen reader context.
+- [x] Create sample code.
+- [X] Create a checklist.
+- [ ] Do the next commit.
+
